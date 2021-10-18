@@ -1,2 +1,2 @@
-# esm206-lab4-part1-js
+# Lab 4 Repo Setup
 This repo has example code for repo first R proj
